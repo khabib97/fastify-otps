@@ -1,0 +1,19 @@
+{
+  "name": "fastify-otp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "desm": "^1.1.0",
+    "fastify": "^3.10.1",
+    "fastify-autoload": "^3.4.0"
+  },
+  "devDependencies": {
+    "pino-pretty": "^4.3.0"
+  }
+}
